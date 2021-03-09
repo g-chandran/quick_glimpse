@@ -1,0 +1,6 @@
+numpy
+tqdm
+sklearn==0.23.2
+torch==1.7.0
+pytorch-pretrained-bert==0.6.2
+pulp==2.3.1
